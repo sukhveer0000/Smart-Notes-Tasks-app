@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "573754833416",
+    "firebase_url": "https://nexup-notes-451-default-rtdb.firebaseio.com",
+    "project_id": "nexup-notes-451",
+    "storage_bucket": "nexup-notes-451.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573754833416:android:ff18044f8cbacae0d9efbd",
+        "android_client_info": {
+          "package_name": "com.example.nexupnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8g-QYrKGsxLneNgpDvsHrT9kOTuiMHUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

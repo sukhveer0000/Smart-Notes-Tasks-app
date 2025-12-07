@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/notes"
+        android:id="@+id/notesFragment"
+        android:icon="@drawable/note_2_svgrepo_com"
+        android:iconTint="@color/black"/>
+
+    <item android:title="@string/tasks"
+        android:id="@+id/tasksFragment"
+        android:icon="@drawable/tasks_app_svgrepo_com"
+        android:iconTint="@color/black"/>
+
+
+    <item android:title="@string/profile"
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/profile_circle_svgrepo_com"
+        android:iconTint="@color/black"/>
+
+</menu>
